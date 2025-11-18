@@ -4,3 +4,4 @@ Les 3 commandes de push
 git commit -m "Message du commit"
 git push
 git add .
+git pull
